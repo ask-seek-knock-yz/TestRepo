@@ -1,1 +1,0 @@
-This file is for testing the upload function of GitHub.com in this project.
